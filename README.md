@@ -53,5 +53,5 @@
 #### You can view the full project on GitHub here:
 #### 1.Dataset:https://github.com/chandana1798/Insurance-Claim-Amount-Prediction/blob/main/consumer_insurance_claim.csv
 #### 2.Regression Project:https://github.com/chandana1798/Insurance-Claim-Amount-Prediction/blob/main/Insurance_claim_Reg.ipynb
-#### 3.Classification Project:https://github.com/chandana1798/Insurance-Claim-Amount-Prediction/blob/main/Insurance-claim-cls.ipynb
+#### 3.Classification Project:https://github.com/chandana1798/Insurance-Claim-Amount-Prediction/blob/main/Insurance%20claim%20cls.ipynb
 
